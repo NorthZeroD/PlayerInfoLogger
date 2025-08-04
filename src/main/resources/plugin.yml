@@ -1,0 +1,8 @@
+name: PlayerInfoLogger
+version: '1.0.0'
+main: io.github.northzerod.playerInfoLogger.PlayerInfoLogger
+api-version: '1.21.8'
+prefix: PlayerInfoLogger
+authors: [ NorthZero ]
+description: by NorthZero
+website: https://northzerod.github.io/
